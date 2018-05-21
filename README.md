@@ -30,6 +30,7 @@ demo地址：[demo地址](https://github.com/NBaby/modularization/tree/master)
 ![工程管理.png](https://upload-images.jianshu.io/upload_images/2368050-438d86310b3c81de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+
 建多个项目文件的好处是可以将组建的代码和主程序代码完全剥离开来，做到高内聚的特点。
 
 下面我将演示如何创建一个静态库工程。

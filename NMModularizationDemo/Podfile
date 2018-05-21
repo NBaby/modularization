@@ -1,0 +1,5 @@
+ 
+platform :ios, ‘7.0‘
+target "NMModularizationDemo" do
+  pod 'SDWebImage', '~> 4.2.1'
+end 
